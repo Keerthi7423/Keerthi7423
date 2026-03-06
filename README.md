@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Keerthi Kumar V<br><br>🚀 Full Stack Developer | MERN Stack | System Design Learner<br><br>I'm a passionate developer building real-world applications and constantly learning modern technologies. My focus is on building scalable products, improving system design skills, and contributing to impactful projects.<br><br>---<br><br>🚀 About Me<br><br>* 🎓 Computer Science Graduate<br>* 💻 Full Stack Developer<br>* 🌱 Currently learning **System Design, MERN Stack, AI & Cloud (AWS / Azure)**<br>* 🚀 Building projects every day to become a **world-class developer**<br>* 🎯 Goal: Become a **Software Developer and build impactful products**<br><br>
+Hi there 👋 I'm Keerthi Kumar V<br><br>🚀 Full Stack Developer | MERN Stack | System Design Learner<br><br>I'm a passionate developer building real-world applications and constantly learning modern technologies. My focus is on building scalable products, improving system design skills, and contributing to impactful projects.<br><br>🚀 About Me<br><br>* 🎓 Computer Science Graduate<br>* 💻 Full Stack Developer<br>* 🌱 Currently learning **System Design, MERN Stack, AI & Cloud (AWS / Azure)**<br>* 🚀 Building projects every day to become a **world-class developer**<br>* 🎯 Goal: Become a **Software Developer and build impactful products**<br><br>
 
 
 ## 🌐 Socials:
