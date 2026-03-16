@@ -81,7 +81,7 @@ My focus is on building **scalable products, improving system design skills, and
 ## 🛠 Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron)
+
 
 ---
 
